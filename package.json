@@ -1,6 +1,6 @@
 {
   "name": "dynamodb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "contributors": [
     "Ryan Fitzgerald <ryan@codebrewstudios.com>",
     "Greg Sabia Tucker <greg@narrowlabs.com>"
@@ -27,7 +27,7 @@
     "async": "1.5.x",
     "aws-sdk": "^2.186.x",
     "bunyan": "1.5.x",
-    "joi": "10.6.x",
+    "joi": "^14.3.1",
     "lodash": "4.x.x",
     "stream-to-promise": "~2.2.0",
     "uuid": "^3.3.2"
